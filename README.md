@@ -4,7 +4,7 @@ Enter<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baye Shop Pro | Démo E-commerce</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com">
     <style>
         :root {
             --primary: #ff4757;
