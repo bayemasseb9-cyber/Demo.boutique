@@ -219,11 +219,11 @@ Enter<!DOCTYPE html>
             </div>
         </div>
 
-        <!-- Produit 4 : Lunettes -->
+<!-- Produit 4 : Lunettes -->
         <div class="product-card">
             <div class="badge-promo">NEW</div>
             <div class="img-container">
-                <img src="image 2.jpg" class="product-img">
+                <img src="image-2.jpg" class="product-img">
             </div>
             <div class="product-info">
                 <h3 class="product-name">Lunettes de Soleil Vintage</h3>
@@ -237,30 +237,11 @@ Enter<!DOCTYPE html>
             </div>
         </div>
 
-    </div>
+    </div> <!-- Fin grid -->
+</div> <!-- Fin container -->
 
-    <!-- Section Confiance -->
-    <div class="trust-info">
-        <div class="trust-item">
-            <i class="fas fa-truck"></i>
-            <strong>Livraison Rapide</strong>
-            <p>Dakar & Banlieue</p>
-        </div>
-        <div class="trust-item">
-            <i class="fas fa-undo"></i>
-            <strong>Retour Facile</strong>
-            <p>Sous 48 heures</p>
-        </div>
-        <div class="trust-item">
-            <i class="fas fa-shield-alt"></i>
-            <strong>Paiement Sûr</strong>
-            <p>Wave / Orange Money / Cash</p>
-        </div>
-    </div>
-</div>
-
-<footer style="text-align: center; padding: 40px; background: white; color: #94a3b8; font-size: 0.8rem; border-top: 1px solid #eee;">
-    <p>&copy; 2026 Baye Shop - Démo réalisée par Baye Masse Ba</p>
+<footer>
+    <p>&copy; 2026 Baye Shop - Démo par Baye Masse Ba</p>
 </footer>
 
 </body>
